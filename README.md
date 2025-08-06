@@ -1,6 +1,6 @@
 <!-- ==================== GitHub Stats & Badges ==================== -->
 <div align="center">
-
+  <h1>Principais linguagens usadas em meus repositórios:</h1>
   <!-- GitHub Contribuições e Estatísticas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurEduardoDePauli&layout=compact&theme=dark" alt="Top Languages" width="450"/>
   <br><br>
