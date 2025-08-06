@@ -2,12 +2,8 @@
 <div align="center">
 
   <!-- GitHub Contribuições e Estatísticas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurEduardoDePauli&show_icons=true&theme=dark" alt="GitHub Stats" width="450"/>
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurEduardoDePauli&layout=compact&theme=dark" alt="Top Languages" width="450"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurEduardoDePauli&theme=dark" alt="GitHub Streak" width="450"/>
-
   <!-- Visitantes -->
   <br><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ArthurEduardoDePauli.ArthurEduardoDePauli" alt="Visitor Badge"/>
