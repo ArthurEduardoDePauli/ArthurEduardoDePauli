@@ -39,7 +39,6 @@ Gosto de desafios, de aprender algo novo todo dia e de compartilhar conhecimento
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100px" alt="Python logo">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="100px" alt="HTML5 logo">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="100px" alt="CSS3 logo">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="100px" alt="JavaScript logo">
 </div>
 
 ---
