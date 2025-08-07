@@ -25,7 +25,7 @@
 
 Sou um entusiasta de tecnologia e programação. Atualmente focado em:
 
-- **Front-end**: HTML, CSS e JavaScript  
+- **Front-end**: HTML e CSS
 - **Back-end**: Python  
 - **Banco de dados**: conceitos de SQL
 
