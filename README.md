@@ -11,7 +11,7 @@
 - 🎂 Tenho 13 anos (Comecei a programar com 12)
 - 🗣️ Falo Português  
 - 💻 Estudo programação diariamente
-- 🎯 Minha meta é trabalhar com desenvolvimento Full-Stack no futuro  
+- 🎯 Minha meta é trabalhar com desenvolvimento Back-End no futuro  
 
 ---
 
