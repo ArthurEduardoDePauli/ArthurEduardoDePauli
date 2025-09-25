@@ -1,9 +1,3 @@
-<div align="center">
-  <h1>Principais linguagens usadas em meus repositórios:</h1>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurEduardoDePauli&layout=compact&theme=dark" alt="Top Linguagens" width="450"/>
-  <br><br>
-</div>
-
 ---
 
 ## 👋 Olá! Eu sou o CodeRonin
@@ -12,6 +6,14 @@
 - 🗣️ Falo Português  
 - 💻 Estudo programação diariamente
 - 🎯 Minha meta é trabalhar com desenvolvimento Back-End no futuro  
+
+---
+
+<div align="center">
+  <h1>Principais linguagens usadas em meus repositórios:</h1>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurEduardoDePauli&layout=compact&theme=dark" alt="Top Linguagens" width="450"/>
+  <br><br>
+</div>
 
 ---
 
