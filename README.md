@@ -15,25 +15,6 @@
 
 ---
 
-## 📝 Sobre mim
-
-Sou um entusiasta de tecnologia e programação. Atualmente focado em:
-
-- **Front-end**: HTML e CSS
-- **Back-end**: Python  
-- **Banco de dados**: conceitos de SQL
-
----
-
-## 💻 Tecnologias que estou aprendendo atualmente
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="100px" alt="HTML5 logo">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="100px" alt="CSS3 logo">
-</div>
-
----
-
 ## 📫 Como me encontrar
 
 <div align="center">
